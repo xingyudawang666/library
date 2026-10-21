@@ -1,0 +1,8 @@
+{
+  "name": "莫高幻境 · 敦煌壁画数字漫游",
+  "description": "沉浸式体验敦煌莫高窟壁画艺术：支持藻井动态视效、360° VR全景洞窟漫游、超高清亿级像素微距鉴赏、AI数字人妙音智能导览、矿物彩绘非遗工坊与专属艺术图鉴生成。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
